@@ -1,4 +1,4 @@
-Phrasing Application Template
+Phrasing Application Template 
 ========
 
 This is very basic template to bootstrap development of Rails application
