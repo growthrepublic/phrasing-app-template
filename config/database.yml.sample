@@ -1,27 +1,17 @@
 development:
   adapter: postgresql
-  encoding: unicode
   database: sample-database
-  pool: 5
-  username: root
-  password:
+  username: postgres
 
 test: &test
   adapter: postgresql
-  encoding: unicode
   database: sample-database-test
-  pool: 5
-  username: root
-  password:
+  username: postgres
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: sample-database-production
-  host: localhost
-  pool: 5
-  username: root
-  password:
+  username: postgres
 
 cucumber:
   <<: *test
