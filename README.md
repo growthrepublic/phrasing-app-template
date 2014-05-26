@@ -1,4 +1,4 @@
-Phrasing Application Template 
+Phrasing Application Template [![Build Status](https://travis-ci.org/growthrepublic/phrasing-app-template.svg?branch=master)](https://travis-ci.org/growthrepublic/phrasing-app-template)
 ========
 
 This is very basic template to bootstrap development of Rails application
